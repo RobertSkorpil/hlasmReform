@@ -27,3 +27,12 @@
 *.exe
 *.out
 *.app
+*.suo
+# VS files
+*.db
+*.opendb
+Debug/
+Release/
+x64/
+ipch/
+
