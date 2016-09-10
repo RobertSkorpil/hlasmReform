@@ -7,10 +7,17 @@
 
 #include "targetver.h"
 
-#include <stdio.h>
-#include <tchar.h>
-
 #include <string>
 #include <vector>
 #include <list>
+#include <tuple>
 #include <algorithm>
+
+#include <iostream>
+#include <sstream>
+#include <exception>
+#include <cctype>
+
+#include <boost/algorithm/string.hpp>
+#include <boost/optional.hpp>
+#include <boost/range.hpp>

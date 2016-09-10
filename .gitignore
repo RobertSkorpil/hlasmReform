@@ -35,4 +35,7 @@ Debug/
 Release/
 x64/
 ipch/
-
+data/
+*.user
+*.config
+packages/
